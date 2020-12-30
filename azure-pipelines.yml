@@ -2,7 +2,7 @@
 # Build your Java project and run tests with Apache Maven.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
-# Check CI in Pipeline -- Need to view this is not reflecting in the Azure Pipeline
+# Check CI in Pipeline -- Sucess
 
 trigger:
 - master
