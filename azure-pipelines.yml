@@ -5,7 +5,7 @@
 # Check CI in Pipeline -- Need to view this is not reflecting in the Azure Pipeline
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
